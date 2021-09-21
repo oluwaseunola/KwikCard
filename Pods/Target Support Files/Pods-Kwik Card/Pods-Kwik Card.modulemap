@@ -1,0 +1,6 @@
+framework module Pods_Kwik_Card {
+  umbrella header "Pods-Kwik Card-umbrella.h"
+
+  export *
+  module * { export * }
+}
