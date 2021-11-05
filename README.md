@@ -1,6 +1,6 @@
 # KwikCard
 
-Kwik Card is a digital business card app that helps you have all your work info readily availble to share with others. Including links directly to social media like instagram and twitter. 
+Kwik Card is a digital business card app that helps you have all your work info readily availble to share with others. Including links directly to social media like instagram and twitter. Link to video walkthrough -> https://www.linkedin.com/posts/seun-olalekan-70145b16a_mobileappdevelopment-iosdevelopment-iosdeveloper-activity-6847174306955317248-Xk_B
 
 
 
